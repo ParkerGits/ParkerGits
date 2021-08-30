@@ -10,7 +10,7 @@
 - 🏈 Fun Fact: I played football for 10 years.
 
 ## Where I'm headed 🎈
-- 💎 Alongside working for my degree(s) at SPU, I'm actively learning about how I can apply my skills to create something meaningful.
+- 💎 Alongside working for my degree(s) at SPU, I'm actively learning about how I can apply my skills to create meaningful products.
 - 🕸 I'm currently immersed in web development, but I'm also interested in learning about how I can apply my math knowledge to fields like data science and AI.
 
 ## Top Tools 👷‍♂️
