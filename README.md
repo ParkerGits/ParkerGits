@@ -16,5 +16,6 @@
 ## Top Tools 👷‍♂️
 - ⚛ React
 - 💙 TypeScript
+- ⚙ XState
 - ⏭ Next.js
 - ✈ Tailwind
