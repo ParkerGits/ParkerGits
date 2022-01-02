@@ -14,10 +14,10 @@
 - 🧙‍♂️ Beyond software development, I am looking to grow in math, statistics, business, and management.
 
 ## Top Tools 👷‍♂️
-- ⚛ React
-- 📗 Node.js
-- ⏭ Next.js
-- ✈ Tailwind
 - 💙 TypeScript
+- ⚛ React
+- ⏭ Next.js
+- 📗 Node.js
+- ✈ Tailwind
 - 🍃 MongoDB
 - ⚙ XState
