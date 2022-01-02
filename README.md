@@ -19,5 +19,4 @@
 - ⏭ Next.js
 - 📗 Node.js
 - ✈ Tailwind
-- 🍃 MongoDB
 - ⚙ XState
