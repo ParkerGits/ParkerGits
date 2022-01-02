@@ -16,8 +16,8 @@
 ## Top Tools 👷‍♂️
 - ⚛ React
 - 📗 Node.js
+- ⏭ Next.js
+- ✈ Tailwind
 - 💙 TypeScript
 - 🍃 MongoDB
 - ⚙ XState
-- ⏭ Next.js
-- ✈ Tailwind
