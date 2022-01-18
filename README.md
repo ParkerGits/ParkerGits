@@ -4,7 +4,7 @@
 
 ## Where I'm at 🗺
 - 🛠 Working On: creating a participation app for professors at Seattle Pacific University.
-- 🤔 Currently Learning: Node backends, MongoDB.
+- 🤔 Currently Learning: Prisma, Fullstack Application Development
 - 🌵 Excited to build and ship a fullstack application.
 - 👑 Pronouns: he/him
 - 🏈 Fun Fact: I played football for 10 years!
