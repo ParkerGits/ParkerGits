@@ -18,5 +18,5 @@
 - ⚛ React
 - ⏭ Next.js
 - 📗 Node.js
+- ▲ Prisma
 - ✈ Tailwind
-- ⚙ XState
